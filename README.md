@@ -6,7 +6,7 @@
 -📧 E-mail : maxswellsousadiniz@yahoo.com
 
 ## Atualizando o versionamento do site kimassa 🍕🍕🍕🍕🥟🥟🥟🧆🧆🧆🍔🍔
--Site em construção :  https://maxswell-msd.github.io/kimassa/ <br>
+-Site em construção versão 1.0 :  https://maxswell-msd.github.io/kimassa/ <br>
 -💻 Trabalhando conceitos e suas aplicações iniciado em 07/2021
 - Para um pequeno projeto;
 - Plataforma para explorar todos os erros possíveis para Solucionar os problemas;
