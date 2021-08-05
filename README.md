@@ -6,11 +6,11 @@
 -👨‍🎓 Assuntos de estudos atualmente - Html , CSS, JavaScript iniciado em 06/2021<br>
 -📧 E-mail : maxswellsousadiniz@yahoo.com
 
-## Atualização do versionamento do site kimassa Sendo aplicada...🍕🍕🍕🍕🥟🥟🥟🧆🧆🧆🍔🍔
+## Atualização do versionamento do site kimassa Sendo aplicada...🍕🍕🍕🍕🥟🥟🥟🧆🧆🧆
 
 - nova implantação de animação de entrada para Banner, Título, texto e Botão com animação de efeito.
 
--Site em construção versão 1.0 : https://maxswell-msd.github.io/kimassa/ <br>
+-Site em reforma para versão 2.0 : https://maxswell-msd.github.io/kimassa/ <br>
 -💻 Trabalhando conceitos e suas aplicações iniciado em 07/2021
 
 - Para um pequeno projeto;
