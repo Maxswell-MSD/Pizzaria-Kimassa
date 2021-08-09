@@ -20,7 +20,7 @@
 ## Sites usado nesse projeto para captação de recursos:
 
 - Google Fontes para formatação do texto: https://fonts.google.com/
-- Fontes para captação de iconis: https://cdnjs.com/libraries/font-awesome
-- Aplicando tema do Fiveicon na aba do site gerando vários formatos : https://favicon.io/
+- Fontes para captação de ícones: https://cdnjs.com/libraries/font-awesome
+- Aplicando tema do Favicon na aba do site gerando vários formatos : https://favicon.io/
 - Escolhendo fontes de cores gradients :https://uigradients.com/
 
