@@ -10,7 +10,7 @@
 
 - nova implantação de animação de entrada para Banner, Título, texto e Botão com animação de efeito.
 
--Site em reforma para versão 2.0  <br>
+-Site em reforma para versão 2.0 https://maxswell-msd.github.io/kimassa/ <br>
 -💻 Trabalhando conceitos e suas aplicações iniciado em 07/2021
 
 - Para um pequeno projeto;
