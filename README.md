@@ -1,4 +1,4 @@
-## Seja Bem-vindo
+## Um pequeno Projeto -Senac
 
 -🤓 Autor: Maxswell Sousa Diniz <br>
 -💻 Cursando atualmente Técnico em Informática - Senac Tatuapé - SP <br>
