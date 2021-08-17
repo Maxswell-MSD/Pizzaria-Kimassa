@@ -11,11 +11,8 @@
 - 
 
 -Site 2.0 https://maxswell-msd.github.io/Pizzaria-Kimassa/ <br>
--💻 Trabalhando conceitos e suas aplicações iniciado em 07/2021
+-💻 Trabalhando conceitos e suas aplicações iniciado em 17/08/2021
 
-- Para um pequeno projeto;
-- Elaborando um novo projeto diferente da versão 1.0 mesmo tema mas com aplicações diferentes;
-- Melhorias do site Kimassa e integração com conceitos de estudos Css e JavaScript; <br>
 
 ## Sites usado nesse projeto para captação de recursos:
 
