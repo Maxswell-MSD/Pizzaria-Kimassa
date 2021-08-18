@@ -11,7 +11,7 @@
 - Site de pizzaria com informações extras sobre História da pizza e campos de serviços.
 
 -Site 2.0 https://maxswell-msd.github.io/Pizzaria-Kimassa/ <br>
--💻 Trabalhando conceitos e suas aplicações Html5 e CSS3 nesse projeto iniciado em 17/08/2021
+-💻 Trabalhando conceitos e suas aplicações Html5 e CSS3 nesse projeto finalizado em 17/08/2021
 
 
 ## Sites usado nesse projeto para captação de recursos:
