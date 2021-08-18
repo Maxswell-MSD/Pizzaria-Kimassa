@@ -1,14 +1,14 @@
-## Um pequeno Projeto -Senac
+## Um pequeno Projeto Curso técnico em informática -Senac
 
 -🤓 Autor: Maxswell Sousa Diniz <br>
 -💻 Cursando atualmente Técnico em Informática - Senac Tatuapé - SP <br>
 -🙌 Iniciado em 08/2020 até 03/2022<br>
--👨‍🎓 Assuntos de estudos atualmente - Html , CSS, JavaScript iniciado em 06/2021<br>
+-👨‍🎓 Assuntos de estudos atualmente - Html , CSS, em 06/2021<br>
 -📧 E-mail : maxswellsousadiniz@yahoo.com
 
 ## Atualização do versionamento do site kimassa Finalizado!🍕🍕🍕🍕🥟🥟🥟🧆🧆🧆
 
-- 
+- Site de pizzaria com informações extras sobre História da pizza e campos de serviços.
 
 -Site 2.0 https://maxswell-msd.github.io/Pizzaria-Kimassa/ <br>
 -💻 Trabalhando conceitos e suas aplicações iniciado em 17/08/2021
