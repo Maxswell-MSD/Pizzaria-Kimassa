@@ -20,4 +20,8 @@
 - Fontes para captação de ícones: https://cdnjs.com/libraries/font-awesome
 - Aplicando tema do Favicon na aba do site gerando vários formatos : https://favicon.io/
 - Escolhendo fontes de cores gradients :https://uigradients.com/
+## Eu sei que existe sites para fazer Wireframe mas já estava fazendo em outro
+
+- Ferramenta usada nesse projeto foi o Canva indicado para criação de Folhetos, cartões de visitas além de baixar em PDF:https://www.canva.com/
+- Indicação de sites para fazer Wireframe Moqups:https://app.moqups.com/
 
