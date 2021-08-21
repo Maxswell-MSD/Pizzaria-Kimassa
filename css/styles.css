@@ -647,9 +647,13 @@ E A AREA DO HEADER H1 DO CABEÇALHO E O MAIN DO PAINEL */
   /* EDIÇÃO DA AULA 9º CSS */
   /* colocando breakpoints no h1 título da linha 66 layout.html*/
   header h1 {
-    padding: 0;
-    text-align: center;
+    padding: 0px;
+    /* text-align: center; */
     font-size: 40px;
+    /* margin-left: 0px; */
+  }
+  h1 {
+    margin-left: 60px;
   }
 
   /* Edição de continuação da aula 9º CSS */
@@ -717,7 +721,6 @@ E A AREA DO HEADER H1 DO CABEÇALHO E O MAIN DO PAINEL */
     padding-left: 2px;
     padding-right: 2px;
   }
-
   main #nossaspizzas2 #Pizzas div {
     width: 400%;
     text-align: center;
@@ -924,7 +927,7 @@ E A AREA DO HEADER H1 DO CABEÇALHO E O MAIN DO PAINEL */
   main #nossaspizzas2 #Pizzas div {
     width: 400%;
     text-align: center;
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
   }
   main #nossaspizzas2 #Pizzas div img {
     width: 200px;
