@@ -49,16 +49,16 @@ header {
   -webkit-box-flex: 1;
   -ms-flex: 1;
   flex: 1; /*Indicando que o display flex vai ocupar uma fração*/
-  background: #870000; /* fallback for old browsers */
+  background: #215f00; /* fallback for old browsers */
   background: -webkit-linear-gradient(
-    to top,
-    #190a05,
-    #870000
+    to left,
+    #e4e4d9,
+    #215f00
   ); /* Chrome 10-25, Safari 5.1-6 */
   background: linear-gradient(
-    to top,
-    #190a05,
-    #870000
+    to left,
+    #e4e4d9,
+    #215f00
   ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
   /*Colocando cor de fundo no título h1 linha 65 layout.html*/
@@ -66,14 +66,23 @@ header {
   color: #fff;
 }
 
+header h2{
+  font-size: 50pt;
+  padding-left: 80px;
+  text-align: center;
+  /* margin: -300; */
+  /* top: -100px; */
+}
+
 /*  FAZENDO FORMATAÇÃO DO H1 DA LINHA 66 DO LAYOUT.HTML DIRETO DO HEADER  */
-header h1 {
+h1 {
   /*A propriedade CSS padding-left é um elemento que define o espaço de preenchimento obrigatório no lado esquerdo de um elemento. padding area é o espaço entre o conteúdo do elemento e a borda.  */
   padding-left: 200px; /*Assim o texto do h1 vai se locomover de acordo com o seu gosto*/
   /* A propriedade padding define uma a distância entre o conteúdo de um elemento e suas bordas. É um atalho que evita definir uma distância para cada lado separadamente ( padding-top , padding-right , padding-bottom , padding-left ) */
   padding-top: 0px; /*Nessa aplicação ele vai jogar abaixo o h1 deslocando da margem superior e dos lados*/
-  font-size: 100px;
+  font-size: 150px;
   font-family: "MonteCarlo", cursive;
+  color: white;
 }
 
 /* //////////////////// TRABALHANDO AGORA COM A ÁREA DOS LINKS DA LINHA 69 ATÉ 72 LAYOUT.HTMML */
@@ -102,7 +111,11 @@ header nav ul {
 /*  Agora trabalharemos com os itens da lista dos links 69 até 72 do layout.html */
 
 header nav ul li {
-  background-color: white; /*Colocando cor para identificar o tamanho de ocupação do li onde tem os links de redes sociais*/
+  background-color: rgb(
+    7,
+    66,
+    7
+  ); /*Colocando cor para identificar o tamanho de ocupação do li onde tem os links de redes sociais*/
   /* Colocando os botões de navegação do site um ao lado do outro em bloco */
   display: inline-block; /*Um bloco inline é colocado inline (ou seja, na mesma linha do conteúdo adjacente), mas comporta-se como se fosse um bloco. Vamos adicionar conteúdo para ver como o bloco se comporta.*/
   /* Colocando largura e altura trabalhando com padding incluso*/
@@ -114,7 +127,7 @@ header nav ul li {
 }
 /*  colocando efeito de cor na linha 69 até 72 colocando efeito nas caixas dos links na tag a */
 header nav ul li a {
-  color: red; /*Colocando cor nos links do menu*/
+  color: white; /*Colocando cor nos links do menu*/
   text-decoration: none; /*Tirando as listas debaixo do nome do menu*/
   font-family: "Staatliches", cursive; /*Colocando uma fonte para o menu*/
   font-size: 13pt; /*colocando tamanho da fonte do menu*/
@@ -124,22 +137,11 @@ header nav ul li a {
 /*  Formatação da tag a ao passar o mouse por cima deve aparecer cor diferente no menu da linha 69 até 72 do layout.html */
 header nav ul li:hover {
   /*formatando a quando chegar em li link do menu da página*/
-  background: #870000; /* fallback for old browsers */
-  background: -webkit-linear-gradient(
-    to top,
-    #190a05,
-    #870000
-  ); /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(
-    to top,
-    #190a05,
-    #870000
-  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background-color: red;
 }
 /*  Modificando também a cor da letra ao passar o mouse sobre a caixa de link de menu da página */
 header nav ul li:hover > a {
-  color: yellow; /*Colocando cor na tag a do menu de links de navegação da página*/
+  color: white; /*Colocando cor na tag a do menu de links de navegação da página*/
 
   /* //////////////////// FINALIZANDO A ÁREA DOS LINKS DA LINHA 69 ATÉ 72 LAYOUT.HTMML */
 }
@@ -157,8 +159,8 @@ main {
   flex: 1; /*O main por está no body ele é totalmente flexivel*/
 }
 main #painel {
-  height: 500px; /*Colocando altura no painel*/
-  background-image: url(../img/banner5.jpg); /* Colocando background de imagem de painel */
+  height: 450px; /*Colocando altura no painel*/
+  background-image: url(../img/banner7.jpg); /* Colocando background de imagem de painel */
   background-size: 100%; /*Colocamos aqui o tamanho da imagem de painel*/
   background-position: -0px -350px; /*Fazendo a imagem subir*/
 }
@@ -176,17 +178,18 @@ footer {
   -webkit-box-direction: normal;
   -ms-flex-direction: row;
   flex-direction: row; /*A propriedade flex-direction permite alterar a direção na qual os elementos flex serão exibidos ao longo do eixo principal. Definindo a propriedade flex-direction como row-reverse (linha reversa) ainda teremos os elementos dispostos em uma linha, entretanto, as linhas inicial e final serão trocadas.*/
-  background: #870000; /* fallback for old browsers */
+  background: #215f00; /* fallback for old browsers */
   background: -webkit-linear-gradient(
-    to top,
-    #190a05,
-    #870000
+    to left,
+    #e4e4d9,
+    #215f00
   ); /* Chrome 10-25, Safari 5.1-6 */
   background: linear-gradient(
-    to top,
-    #190a05,
-    #870000
+    to left,
+    #e4e4d9,
+    #215f00
   ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
   font-family: "Staatliches", cursive;
   padding: 50px; /*Colocando uma margen interna*/
@@ -198,7 +201,7 @@ footer #end {
   -webkit-box-flex: 1;
   -ms-flex: 1;
   flex: 1;
-  color: white;
+  color: black;
   font-size: 13pt;
 }
 /* alinhando o endereço do footer */
@@ -222,7 +225,7 @@ footer #redes ul li a {
 /* Formatando o iconis do footer do rodapé */
 footer #redes ul li a i {
   font-size: 30px;
-  color: white;
+  color: black;
   margin: 10px;
 }
 
@@ -303,8 +306,9 @@ main #nossaspizzas2 #Pizzas div img {
 /* EDIÇÃO DA AULA 9º CSS */
 /* FORMATANDO A ID DO VIDEO DA LINHA 184 INDEX.HTML */
 main #videopizza3 {
-  background-color: #f50057;
+  background-color: #054d11;
   padding-top: 50px; /*margen de topo*/
+ 
 }
 /* EDIÇÃO DA AULA 9º CSS */
 main #videopizza3 h2 {
@@ -357,7 +361,7 @@ main #diversos h2 {
   font-size: 50pt;
   text-align: center;
   /* colocando margen padding de base */
-  color: black;
+  color: rgb(185, 18, 12);
   padding-top: 60px;
   /* (((((((((((((((fim da formatação h2 e h3 dos id)))))))))))))))))) */
 }
@@ -683,7 +687,7 @@ E A AREA DO HEADER H1 DO CABEÇALHO E O MAIN DO PAINEL */
     display: block; /* Para ficar um abaixo do outro*/
     padding-left: 10px; /*colocando largura da esquerda*/
     padding-right: 10px; /*colocando largura da direita*/
-    background-color: #f50057; /*Colocando uma cor de fundo nas caixas*/
+    background-color: #144604; /*Colocando uma cor de fundo nas caixas*/
   }
   /* EDIÇÃO DA AULA 9º CSS */
   /* Formatando (a)  letra do link do menu de navegação da linha 69 at[e 72 do layout */
@@ -812,7 +816,7 @@ E A AREA DO HEADER H1 DO CABEÇALHO E O MAIN DO PAINEL */
     display: block; /* Para ficar um abaixo do outro*/
     padding-left: 10px; /*colocando largura da esquerda*/
     padding-right: 10px; /*colocando largura da direita*/
-    background-color: #f50057; /*Colocando uma cor de fundo nas caixas*/
+    background-color: #034714; /*Colocando uma cor de fundo nas caixas*/
   }
   /* EDIÇÃO DA AULA 9º CSS */
   /* Formatando (a)  letra do link do menu de navegação da linha 69 at[e 72 do layout */
@@ -903,10 +907,10 @@ E A AREA DO HEADER H1 DO CABEÇALHO E O MAIN DO PAINEL */
   main #celebrando #fotodestaque {
     flex: 1.5px;
   }
-}
+ 
 /*///////////////////////////////////////////////////////////////////////////  */
 /* BREAK POINTS PARA TELA DE DESKTOP */
-@media (min-width: 768px) and (max-width: 991.98px) {
+@media (min-width: 768px) and (max-width: 1991.98px) {
   /*modificando a largura do nav dos menus  */
   header nav {
     width: 90%;
@@ -930,7 +934,7 @@ E A AREA DO HEADER H1 DO CABEÇALHO E O MAIN DO PAINEL */
     /* border: 1px solid blue; */
   }
   main #nossaspizzas2 #Pizzas div img {
-    width: 200px;
+    width: 150px;
   }
   .ajustenapolitana {
     width: 250px;
